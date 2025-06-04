@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Anudeep Gorentla
 
-<!--
-**Andyy62/Andyy62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Talent Acquisition Specialist with 7.6 years of experience hiring across UK, Europe, and India.
 
-Here are some ideas to get you started:
+🚀 I specialize in:
+- Global IT Recruitment (Contract & Permanent)
+- Boolean Sourcing Strategies
+- GenAI Tools for Recruitment
+- Advanced ATS & LinkedIn Recruiter usage
+- Candidate Relationship Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+- GitHub for Recruiters
+- Python Basics for Automating Sourcing
+- Generative AI for Talent Acquisition
+
+🧠 Featured Projects: Yet to complete
+- [Boolean Search Toolkit](https://github.com/yourusername/Boolean-Search-Toolkit)
+- [Tech Glossary for Recruiters](https://github.com/yourusername/Tech-Glossary-For-Recruiters)
+- [AI Recruitment Toolkit](https://github.com/yourusername/AI-Tools-For-Recruitment)
+
+📫 Let's connect:
+- [LinkedIn](https://linkedin.com/in/anudeepgorentla/)
